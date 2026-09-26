@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pedestrian']
+
+roboflow:
+  workspace: vishal-g-urvko
+  project: people_tracking-areqh
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vishal-g-urvko/people_tracking-areqh/dataset/3

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# YOLO model files
+*.pt
+
+# YOLO training/output folders
+runs/
+
+# Generated output
+*.csv
+*.log
+
+# IDE
+.vscode/
