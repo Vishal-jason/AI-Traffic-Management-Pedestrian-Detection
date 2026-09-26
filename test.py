@@ -3,9 +3,6 @@ import numpy as np
 from ultralytics import YOLO
 
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
 
 VIDEO_PATH = "v7.mp4"
 MODEL_PATH = "yolo11n.pt"
